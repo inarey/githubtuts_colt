@@ -1,2 +1,10 @@
 This is a first chapter of my js book journey.
 favorite food
+      banana
+      taco
+      strawberry
+      meat sauce
+my favorite movies
+      fifth element
+      game of thrones
+      fifty shades of grey
